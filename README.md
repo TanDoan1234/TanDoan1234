@@ -1,12 +1,8 @@
 # 💫About Me :
 •	🇻🇳 : I'm from VietNam
-
 •	📧 : Contact me at doanminhtan.dev@gmail.com
-
 •	❤️ : I'm passionate about:
-
           o	📊 Data Analysis
-          
           o	🤖 Data Scientist
 
 
